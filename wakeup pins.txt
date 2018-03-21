@@ -1,0 +1,6 @@
+2
+10
+
+rc oscilator
+pinnen µC
+jumpers sensoren (wisselen tussen vcc en pin)
